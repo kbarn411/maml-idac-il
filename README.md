@@ -2,6 +2,8 @@
 
 Corresponding author: Karol Baran (GdańskTech), karol.baran[at]pg.edu.pl
 
+Manuscript status: submitted (2025)
+
 Files and folders:
 
 - data - directory with information on data and scripts to scrap data
